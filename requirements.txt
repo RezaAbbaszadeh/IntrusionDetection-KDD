@@ -1,1 +1,4 @@
-seaborn
+seaborn==0.13.2
+scikeras==0.13.0
+tensorflow==2.15.0
+keras==3.2.1
