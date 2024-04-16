@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 
 tmp.ipynb
+dataset/dataset.csv
+dataset/test_dataset.csv
